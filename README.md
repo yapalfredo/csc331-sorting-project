@@ -6,8 +6,8 @@ Sorting Algorithms (Selection, Insertion, Heap, Merge, Quick)
   Two different array sizes : 100 and 1000.
   
   Following this random number distributions:
-  <ul>
+  <ol type="a">
       <li> Completely random </li>
       <li> Almost sorted in ascending order ( about 90% of items are in increasing order, 10% are random) </li>
       <li> Almost reversed -  same as b) but in reverse order</li>
-  </ul>
+  </ol>
